@@ -1,0 +1,14 @@
+
+> client@0.0.0 build
+> tsc && vite build
+
+vite v4.5.0 building for production...
+transforming...
+✓ 40 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.46 kB │ gzip:  0.30 kB
+dist/assets/react-35ef61ed.svg    4.13 kB │ gzip:  2.14 kB
+dist/assets/index-d526a0c5.css    1.42 kB │ gzip:  0.74 kB
+dist/assets/index-54c3cf79.js   165.02 kB │ gzip: 53.67 kB
+✓ built in 1.64s
